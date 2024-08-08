@@ -1,0 +1,26 @@
+.about-us {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .about-us h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .slide {
+    background-color: #f3f0f0;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0 1rem;
+  }
+  
+  .slide h3 {
+    margin-bottom: 1rem;
+  }
+  
+  .slide p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  

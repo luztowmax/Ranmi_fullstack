@@ -1,0 +1,40 @@
+/* src/styles/Support.css */
+.support-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .support-container h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .support-container p {
+    text-align: center;
+    color: #555;
+  }
+  
+  .support-container ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .support-container li {
+    margin: 10px 0;
+  }
+  
+  .support-container a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .support-container a:hover {
+    text-decoration: underline;
+  }
+  
